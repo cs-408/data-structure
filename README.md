@@ -1,6 +1,6 @@
-# Leetcode难题记录
+# 算法学习
 
-# leetcode题目
+# 算法名称
 
 ## 更新记录
 见main REAMDE更新记录
